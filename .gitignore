@@ -1,0 +1,8 @@
+# Ignore recordings
+*.mp4
+*.mkv
+*.avi
+
+# Ignore output files
+Output*
+Recording*

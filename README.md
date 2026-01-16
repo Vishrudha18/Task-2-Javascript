@@ -48,6 +48,12 @@ TASKK 2/
 
 ---
 
+## Output
+
+<img width="1919" height="1011" alt="Image" src="https://github.com/user-attachments/assets/87b242f6-a8c7-4aa2-824c-e921c2c4ea1d" />
+
+---
+
 ## 📖 Functional Description
 - **Color Change Button:**  
   Uses JavaScript event listeners to dynamically change the button color on each click.
