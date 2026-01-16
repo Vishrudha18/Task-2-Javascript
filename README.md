@@ -6,6 +6,11 @@ The task demonstrates basic interactivity, event handling, conditional logic, an
 
 ---
 
+## Live Demo
+https://vishrudha18.github.io/Task-2-Javascript/
+
+---
+
 ## 🎯 Objectives
 - Understand JavaScript event handling
 - Manipulate HTML elements using JavaScript
